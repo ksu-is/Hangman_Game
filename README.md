@@ -28,4 +28,3 @@ Hangman is a simple game where a player will guess a word, letter by letter to f
 #License
 •	We are using MIT license for this program.  
 •	Copyright 2019 IS Coding @ KSU
-
