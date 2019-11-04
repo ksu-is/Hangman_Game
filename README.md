@@ -4,19 +4,19 @@ Hangman is a simple game where a player will guess a word, letter by letter to f
 
 #Requirements
 
-Install Python to run the program
+- Install Python to run the program
 
-Azure subscription for helpful resources
+- Azure subscription for helpful resources
 
-GitHub account
+- GitHub account
 
 #Examples
 
-https://gist.github.com/saltavenger/3939185
+- https://gist.github.com/saltavenger/3939185
 
-https://gist.github.com/FardinBehboudi/b1c304446f9149676c6bf89de451ef1c
+- https://gist.github.com/FardinBehboudi/b1c304446f9149676c6bf89de451ef1c
 
-https://gist.github.com/devdarren/4199441
+- https://gist.github.com/devdarren/4199441
 
 #Sample coding
 
@@ -32,16 +32,16 @@ if guess = word:
 
 #Contributing
 
-Contributions are always appreciated! 
+- Contributions are always appreciated! 
 
-To contribute fork it, and then submit a pull request! 
+- To contribute fork it, and then submit a pull request! 
 
 #Clone
 
-Clone this repository to your local machine by using https://github.com/ksu-is/Hangman_Game.git
+- Clone this repository to your local machine by using https://github.com/ksu-is/Hangman_Game.git
 
 #License
 
-We are using MIT license for this program.  
+- We are using MIT license for this program.  
 
-Copyright 2019 IS Coding @ KSU
+- Copyright 2019 IS Coding @ KSU
