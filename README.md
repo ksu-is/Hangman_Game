@@ -20,15 +20,15 @@ Hangman is a simple game where a player will guess a word, letter by letter to f
 
 #Sample coding
 
-Def guess() 
+- Def guess() 
 
-Num_Of_Guesses = 0 
+- Num_Of_Guesses = 0 
 
-For guess in word: 
+- For guess in word: 
 
-Len () 
+- Len() 
 
-if guess = word: 
+- if guess = word: 
 
 #Contributing
 
