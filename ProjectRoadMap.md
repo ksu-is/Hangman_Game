@@ -1,6 +1,6 @@
-Coding and Development tasks: 
+# Coding and Development tasks: 
 
-Start planning out and get the approval for the project idea.  
+- [x] Start planning out and get the approval for the project idea.  
 
 Create a repository and name it “Hangman_Game”.  
 
