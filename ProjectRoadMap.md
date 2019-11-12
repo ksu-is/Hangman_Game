@@ -13,9 +13,8 @@
 - [x] On the ProjectRoadMap page, make a numbered list of each task and assign each person to the task. 
 
 - [x] Obtain all the required software such as Python, Azure, and GitHub.  
-8. - [x] Create a new file and name it “Game_Code”.
-
-9. - [] Begin working on the code for the project.
+- [x] Create a new file and name it “Game_Code”.
+- [] Begin working on the code for the project.
 
 10. - [] Run the code to test it and make sure it is working.
 
