@@ -16,12 +16,12 @@
 - [x] Create a new file and name it “Game_Code”.
 - [] Begin working on the code for the project.
 
-10. - [] Run the code to test it and make sure it is working.
+10.  [] Run the code to test it and make sure it is working.
 
-11. - [] Fix any bugs in the code, if any.
+11.  [] Fix any bugs in the code, if any.
 
-12. - [] Run and test the code for final check.
+12.  [] Run and test the code for final check.
 
-13. - [] Create a PowerPoint for the presentation.
+13.  [] Create a PowerPoint for the presentation.
 
-14. - [] Submit all the required parts of the project before the due date.
+14.  [] Submit all the required parts of the project before the due date.
