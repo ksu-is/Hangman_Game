@@ -8,7 +8,7 @@
 - [x] Obtain all the required software such as Python, Azure, and GitHub.**'Uchita'**  
 - [x] Create a new file and name it “Game_Code”.**'Kamilah'** 
 - [ ] Begin working on the code for the project. **'Kamilah'** 
-- [ ] Run the code to test it and make sure it is working.
+- [ ] Run the code to test it and make sure it is working.**'Uchita'**
 - [ ] Fix any bugs in the code, if any.**'Uchita'**
 - [ ] Run and test the code for final check.**'Uchita'**
 - [ ] Create a PowerPoint for the presentation.**'Kamilah'** 
