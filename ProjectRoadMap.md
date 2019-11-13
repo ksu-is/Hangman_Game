@@ -1,15 +1,15 @@
 # Coding and Development tasks: 
 - [x] Start planning out and get the approval for the project idea.  
 - [x] Create a repository and name it “Hangman_Game”. **'Uchita'** 
-- [x] Create a new file under the repository created and name it “README.md”.  
-- [x] Add description, requirements, coding examples, etc to the README page.  
-- [x] Create a new file and name it “ProjectRoadMap.md”.  
+- [x] Create a new file under the repository created and name it “README.md”. **'Uchita'** 
+- [x] Add description, requirements, coding examples, etc to the README page. **'Uchita'** 
+- [x] Create a new file and name it “ProjectRoadMap.md”. **'Uchita'** 
 - [x] On the ProjectRoadMap page, make a numbered list of each task and assign each person to the task. 
-- [x] Obtain all the required software such as Python, Azure, and GitHub.  
-- [x] Create a new file and name it “Game_Code”.
-- [ ] Begin working on the code for the project.
-- [ ] Run the code to test it and make sure it is working.
-- [ ] Fix any bugs in the code, if any.
-- [ ] Run and test the code for final check.
+- [x] Obtain all the required software such as Python, Azure, and GitHub. **'Uchita'** 
+- [x] Create a new file and name it “Game_Code”. 
+- [ ] Begin working on the code for the project. 
+- [ ] Run the code to test it and make sure it is working. **'Uchita'**
+- [ ] Fix any bugs in the code, if any. **'Uchita'**
+- [ ] Run and test the code for final check. **'Uchita'**
 - [ ] Create a PowerPoint for the presentation.
 - [ ] Submit all the required parts of the project before the due date.
