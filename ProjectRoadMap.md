@@ -4,7 +4,7 @@
 3. - [x] Create a new file under the repository created and name it “README.md”. **'Uchita'** 
 4. - [x] Add description, requirements, coding examples, etc to the (https://github.com/ksu-is/Hangman_Game/blob/master/README.md) **'Uchita'** 
 5. - [x] Create a new file and name it “ProjectRoadMap.md”. **'Uchita'** 
-6. - [x] On the ProjectRoadMap page, make a numbered list of each task and assign each person to the task. **'Kamilah'** 
+6. - [x] On the (https://github.com/ksu-is/Hangman_Game/blob/master/ProjectRoadMap.md), make a numbered list of each task and assign each person to the task. **'Kamilah'** 
 7. - [x] Obtain all the required software such as Python, Azure, and GitHub.**'Uchita'**  
 8. - [x] Create a new file and name it “Game_Code”.**'Kamilah'** 
 9. - [ ] Begin working on the code for the project. **'Kamilah'** 
