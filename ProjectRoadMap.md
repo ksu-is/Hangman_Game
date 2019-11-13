@@ -1,6 +1,6 @@
 # Coding and Development tasks: 
 - [x] Start planning out and get the approval for the project idea.  
-- [x] Create a repository and name it “Hangman_Game”.**Uchita** 
+- [x] Create a repository and name it “Hangman_Game”. **'Uchita'** 
 - [x] Create a new file under the repository created and name it “README.md”.  
 - [x] Add description, requirements, coding examples, etc to the README page.  
 - [x] Create a new file and name it “ProjectRoadMap.md”.  
