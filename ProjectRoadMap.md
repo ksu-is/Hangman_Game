@@ -1,5 +1,5 @@
 # Coding and Development tasks: 
-- [x] Start planning out and get the approval for the project idea. <del>Kamilah</del> 
+- [x] Start planning out and get the approval for the project idea. Kamilah 
 - [x] Create a repository and name it “Hangman_Game”.  
 - [x] Create a new file under the repository created and name it “README.md”.  
 - [x] Add description, requirements, coding examples, etc to the README page.  
