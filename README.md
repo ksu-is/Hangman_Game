@@ -1,6 +1,6 @@
 # Hangman_Game
 
-Hangman is a simple game where a player will guess a word, letter by letter to fill in the dashes. In this project, we will be creating a program which generates the hangman game. The hangman game will be based on categories of fast food restaurants. The game will select any random words from the imported file that will be containing a list of fast food restaurants. The player will have 5 attempts to guess the correct word. You must guess 1 letter at a time. After the 5th attempt of incorrect guesses, the game will come to the end and the player will lose the game. If the player guesses the correct word, then they will win the game and will be prompted to the congratulations screen. 
+Hangman is a simple game where a player will guess a word, letter by letter to fill in the dashes. In this project, we will be creating a program which generates the hangman game. The hangman game will be based on categories of different car brands. The game will select any random words from the list of car brand names. The player will have 5 attempts to guess the correct word. You must guess 1 letter at a time. After the 5th attempt of incorrect guesses, the game will come to the end and the player will lose the game. If the player guesses the correct word, then they will win the game and will be prompted to the congratulations screen. 
 
 # Requirements
 
