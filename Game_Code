@@ -1,9 +1,66 @@
 import random
 import sys
 
+hangman = ['''
+  
+     +---+
+     |   |
+         |
+         |
+         |
+         |
+ =========''', '''
+ 
+    +---+
+    |   |
+    O   |
+        |
+        |
+        |
+=========''', '''
+ 
+    +---+
+    |   |
+    O   |
+    |   |
+        |
+        |
+  =========''', '''
+ 
+    +---+
+    |   |
+    O   |
+   /|   |
+        |
+        |
+  =========''', '''
+ 
+    +---+
+    |   |
+    O   |
+   /|\  |
+        |
+        |
+  =========''', '''
+ 
+    +---+
+    |   |
+    O   |
+   /|\  |
+   /    |
+        |
+  =========''', '''
+ 
+    +---+
+    |   |
+    O   |
+   /|\  |
+   / \  |
+        |
+  =========''']
+
 answerlist = [
-"honda", "toyota", "ford", "chevrolet", "jeep", "lexus", "audi", "bmw", "nissan", "jaguar", "dodge", "volvo", "cadillac", 
-"kia", "hyundai", "chrysler", "mercedes", "tesla", "porsche", "lincoln", "mazda"
+"honda", "toyota", "ford", "chevrolet", "jeep", "lexus", "audi", "bmw", "nissan", "jaguar", "dodge", "volvo", "cadillac", "kia", "hyundai", "chrysler", "mercedes", "tesla", "porsche", "lincoln", "mazda"
            ]
 
 guess_word = []
@@ -27,7 +84,6 @@ def change():
     for letter in word: 
         guess_word.append("-")
 
-    
     print("NOTE: The word contains", length_word, "letters. You may only guess 1 letter at a time.\n")
 
     print(guess_word)
@@ -60,12 +116,9 @@ def guessing():
             else:
                 print("This was a wrong Guess!")
                 guess_taken += 1
+                print(hangman[guess_taken])
                 if guess_taken == 6:
                     print(" Sorry, You have lost the game. Better luck next time!\n The word was", word)
 
 change()
 guessing()
-
-
-
-       
